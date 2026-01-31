@@ -8,3 +8,4 @@ opencv-python-headless
 google-auth
 pdfplumber
 openpyxl
+google-generativeai
