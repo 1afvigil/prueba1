@@ -5,3 +5,5 @@ gspread
 Pillow
 pytesseract
 opencv-python-headless
+
+google-auth
